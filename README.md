@@ -1,10 +1,20 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Harsh%20Kumar&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+</div>
+
 <h1 align="center">Hi, I'm Harsh Kumar</h1>
 <h3 align="center">Computer Science Undergraduate
 University of Lucknow | DSA Enthusiast</h3>
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;C%2FC%2B%2B+Developer;Frontend+Web+Developer;Problem+Solver&font=Fira+Code&center=true&color=00F7FF&width=600&height=50"/>
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;C%2FC%2B%2B+Developer;Frontend+Web+Developer;Problem+Solver&font=Fira+Code&center=true&color=00F7FF&width=600&height=50"/>
+  <br>
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+</div>
 
 ## About Me
+<img align="right" alt="Coding Animation" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 - B.Tech CSE at University of Lucknow
 - Learning DSA & Full Stack Dev
 - Passionate about web projects
@@ -24,14 +34,26 @@ University of Lucknow | DSA Enthusiast</h3>
 - Designed and developed a personal portfolio website with a responsive user interface.
 - Created separate HTML, CSS, and JavaScript files.
 
-## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=FrostAbsolute&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostAbsolute&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostAbsolute&layout=compact&theme=radical"/>
+## GitHub Stats & Animations
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrostAbsolute&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostAbsolute&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostAbsolute&layout=compact&theme=radical"/>
+  <br>
+  <!-- Replace this with your actual snake animation URL once generated via GitHub Actions -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 ## GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=FrostAbsolute&theme=radical&no-frame=true"/>
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FrostAbsolute&theme=radical&no-frame=true"/>
+  <br>
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+</div>
 
 ## Certifications
 - Currently pursuing professional certifications — N/A
@@ -40,9 +62,4 @@ University of Lucknow | DSA Enthusiast</h3>
 - SIH 2024 college level cleared
 
 ## Connect with Me
-GitHub: https://github.com/FrostAbsolute
-LinkedIn: https://linkedin.com/in/harsh-kumar-44688733a
-Email: harshkumarisakoolman@gmail.com
-
-Keep Learning, Keep Building,
-Keep Growing
+G
