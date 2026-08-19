@@ -62,4 +62,10 @@ University of Lucknow | DSA Enthusiast</h3>
 - SIH 2024 college level cleared
 
 ## Connect with Me
-G
+GitHub: https://github.com/FrostAbsolute
+LinkedIn: https://linkedin.com/in/harsh-kumar-44688733a
+Email: harshkumarisakoolman@gmail.com
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" width="100%"/>
+</div>
